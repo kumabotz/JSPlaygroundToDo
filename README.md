@@ -2,7 +2,7 @@
 
 1. install
   - express `npm install express -g`
-  - redis `npm install redis --save`
+  - redis `npm install redis`
   - nodemon `brew install nodemon`
   - `npm install`
 1. start redis server `redis-server /usr/local/etc/redis.conf`
